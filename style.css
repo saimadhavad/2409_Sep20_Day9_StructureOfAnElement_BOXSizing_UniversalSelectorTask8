@@ -1,0 +1,166 @@
+/* CSS for Index HTML */
+
+#boxSizing1{
+    display: inline-block;
+    background-color: orange;
+
+}
+#boxSizing2 {
+    display: inline-block;
+    background-color: orange;
+    /* padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px; */
+    padding: 50px;
+    border: 20px solid #93af56;
+
+}
+
+#boxDotted {
+    display: inline-block;
+    background-color: orange;
+    padding: 50px;
+    border: 20px dotted #93af56;
+
+}
+#boxdashed {
+    display: inline-block;
+    background-color: orange;
+    padding: 50px;
+    border: 20px dashed #93af56;
+
+}
+#boxSolid {
+    display: inline-block;
+    background-color: orange;
+    padding: 50px;
+    border: 20px solid #93af56;
+    /* margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px; */
+    margin: 50px;
+
+}
+#boxDouble {
+    display: inline-block;
+    background-color: orange;
+    padding: 50px;
+    border: 20px double #93af56;
+
+}
+#boxGroove {
+    display: inline-block;
+    background-color: orange;
+    padding: 50px;
+    border: 20px groove #93af56;
+
+}
+#boxRidge {
+    display: inline-block;
+    background-color: orange;
+    padding: 50px;
+    border: 20px ridge #93af56;
+
+}
+#boxInset {
+    display: inline-block;
+    background-color: orange;
+    padding: 50px;
+    border: 20px inset #93af56;
+
+}
+#boxOutset {
+    display: inline-block;
+    background-color: orange;
+    padding: 50px;
+    border: 20px outset #93af56;
+
+}
+
+/* CSS for mobiles.HTML */
+
+*{
+    box-sizing: border-box;
+}
+
+img  {
+    width: 250px;
+    height: 250px;
+    border: 15px solid #336371;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px gray;
+}
+#googlePixel9ProFoldDotted{
+    display: inline-block;
+    padding: 50px;
+    border: 20px dotted #93af56;
+
+}
+#motorolaRazr5GDashed{
+    display: inline-block;
+    padding: 50px;
+    border: 20px dashed #93af56;
+    
+}
+#SamsungGalaxyS24UltraGroove{
+    display: inline-block;
+    padding: 50px;
+    border: 20px groove #93af56;
+    
+}
+#nothingPhone2Solid{
+    display: inline-block;
+    padding: 50px;
+    border: 20px solid #93af56;
+    
+}
+#onePlus12Double{
+    display: inline-block;
+    padding: 50px;
+    border: 20px double #93af56;
+    
+}
+#xiaom14UltraRidge{
+    display: inline-block;
+    padding: 50px;
+    border: 20px ridge #93af56;
+    
+}
+#appleIphone15ProMaxInset{
+    display: inline-block;
+    padding: 50px;
+    border: 20px inset #93af56;
+    
+}
+#vivoIqooZ9SProOutset{
+    display: inline-block;
+    padding: 50px;
+    border: 20px outset #93af56;
+    
+}
+
+/* border & content box 
+
+img {
+    width: 300px;
+    height: 300px;
+    border: 15px solid #336371;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px gray;
+
+}
+
+#mobilePhone1{
+    box-sizing: border-box;
+
+}
+#mobilePhone2{
+    box-sizing: content-box;
+
+} */
